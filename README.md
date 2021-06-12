@@ -14,3 +14,10 @@ $ go run main.go "https://bit.ly/3iBDOMM" "https://bit.ly/3wdOmWa" "https://bit.
 ```
 
 This will give output as follows.
+
+```
+URL: https://bit.ly/3iBDOMM - Redirected URL: www.google.com
+URL: https://bit.ly/3iBDOMM - Redirected URL: www.google.com
+URL: https://bit.ly/3wdOmWa - Redirected URL: www.microsoft.com
+URL: https://bit.ly/3wdOmWa - Redirected URL: www.microsoft.com
+```
